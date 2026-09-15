@@ -1,16 +1,17 @@
 body {
-    background-color: fuchsia;
+    background-image: linear-gradient(to left,#16E2F5,#BA55D3,#6F2DA8);
 }
 
 h1, p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FCDFFF;
 }
 
 header {
     background-color: #ffe95d;
 }
 
-div {
+.poop {
     width: 500px;
     height: 15px;
     background-color: #FF33AA;
